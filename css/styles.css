@@ -14,3 +14,9 @@
 img {
   width: 100%;
 }
+
+.columns {
+  float: left;
+  width: 32%;
+  padding-right: 1%;
+}
