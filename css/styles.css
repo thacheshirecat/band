@@ -1,0 +1,16 @@
+.sidebar{
+  float: left;
+  width: 200px;
+  height: 1000px;
+  background-color: purple;
+  color: gold;
+}
+
+.pics {
+  float: right;
+  width: 400px;
+}
+
+img {
+  width: 100%;
+}
