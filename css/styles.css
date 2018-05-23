@@ -1,4 +1,7 @@
 .sidebar{
+  border: 5px solid black;
+  margin-right: 20px;
+  padding: 10px;
   float: left;
   width: 200px;
   height: 1000px;
@@ -13,10 +16,23 @@
 
 img {
   width: 100%;
+  margin-bottom: 20px;
 }
 
 .columns {
   float: left;
   width: 32%;
   padding-right: 1%;
+}
+
+.columns.first {
+  background-color: purple;
+}
+
+.columns.second {
+  background-color: gold;
+}
+
+.columns.third {
+  background-color: lightblue;
 }
